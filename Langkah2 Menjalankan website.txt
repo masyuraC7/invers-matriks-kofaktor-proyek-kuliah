@@ -1,0 +1,6 @@
+Tutorial / Langkah-langkah untuk menjalankan website
+1. Start
+2. letakkan folder Invers_Matriks_Kofaktor di dalam folder C/xampp/htdocs/ (ataupun folder mysql lainnya)
+3. Hidupkan Xampp(ataupun mysql lainnya) dan nyalakan pada bagian apache
+4. Akses link localhost/Invers_Matriks_Kofaktor
+5. Selesai
